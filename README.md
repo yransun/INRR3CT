@@ -15,14 +15,16 @@ Abstract: CT scans are the standard-of-care for many clinical ailments, and are 
 
 
 ### Citing our work
-@inproceedings{sun2023ct,
-  title={CT Reconstruction from Few Planar X-Rays with Application Towards Low-Resource Radiotherapy},
-  author={Sun, Yiran and Netherton, Tucker and Court, Laurence and Veeraraghavan, Ashok and Balakrishnan, Guha},
-  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
-  pages={225--234},
-  year={2023},
-  organization={Springer}
-}
+If you find the paper useful in your research, please cite the paper:
+
+      @inproceedings{sun2023ct,
+        title={CT Reconstruction from Few Planar X-Rays with Application Towards Low-Resource Radiotherapy},
+        author={Sun, Yiran and Netherton, Tucker and Court, Laurence and Veeraraghavan, Ashok and Balakrishnan, Guha},
+        booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+        pages={225--234},
+        year={2023},
+        organization={Springer}
+      }
 
 
 ## Contents
