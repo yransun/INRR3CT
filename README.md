@@ -26,7 +26,6 @@ If you find the paper useful in your research, please cite the paper:
 
 
 ## Contents
-----
 1. [Requirements](#Requirements)
 2. [Installation](#Installation)
 3. [Code Structure](#Structure)
@@ -36,14 +35,12 @@ If you find the paper useful in your research, please cite the paper:
 7. [Acknowledgement](#Acknowledgement)
 
 ## Requirements
-----
 1. pytorch 1.9.0 version had been tested 
 2. python 3.8 was tested
 3. python dependencies, please see the requirements.txt file
 4. CUDA11.8 had been tested
 
 ## Installation
-----
 - Install Python 3.8.0
 - pip install -r requirements.txt
 - Install pytorch 1.9.0 or above
@@ -51,7 +48,6 @@ If you find the paper useful in your research, please cite the paper:
 - Download the source code and put the data file to the right location according to the code structure below
 
 ## Acknowledgement
-----
 This work was supported by NSF CAREER: IIS-1652633.
 
 The public datasets were used in this paper LIDC-IDRI and LUNA 16 are under Creative Commons Attribution 3.0 Unported License and Creative Commons Attribution 4.0 International License.
@@ -59,5 +55,4 @@ The public datasets were used in this paper LIDC-IDRI and LUNA 16 are under Crea
 MONAI and clinical level pre-trained nn-UNet from MD Anderson are used during evaluation stage.
 
 ## Note
-----
 More contents are Coming Soon!
