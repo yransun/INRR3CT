@@ -53,6 +53,3 @@ This work was supported by NSF CAREER: IIS-1652633.
 The public datasets were used in this paper LIDC-IDRI and LUNA 16 are under Creative Commons Attribution 3.0 Unported License and Creative Commons Attribution 4.0 International License.
 
 MONAI and clinical level pre-trained nn-UNet from MD Anderson are used during evaluation stage.
-
-## Note
-More contents are Coming Soon!
