@@ -1,4 +1,6 @@
-# INRR3CT: CT reconstruction from few planar X-rays with application towards low-resource radiotherapy
+# INRR3CT: CT Reconstruction from Few Planar X-Rays with Application Towards Low-Resource Radiotherapy
+
+[Project Website](https://yransun.github.io/INRR3CT/)
 
 This is the official pytorch implementation of the deep leraning model INRR3CT for 3D CT reconstruction from few planar X-rays. The [paper](https://link.springer.com/chapter/10.1007/978-3-031-53767-7_22) is originally published on 2023 MICCAI Deep Generative Models Workshop (DGM4MICCAI 2023). The arxiv version of the paper is available [here](https://arxiv.org/abs/2308.02100).
 
