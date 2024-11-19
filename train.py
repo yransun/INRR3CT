@@ -12,8 +12,8 @@ This file is about to train the full model
 
 
 from fullmodel import FullModel
-from Unet_encoder import unet
-from resnet import Resnet
+from feature_extract import unet
+from feature_fuse import Resnet
 import numpy as np
 import matplotlib.pyplot as plt
 import torch
