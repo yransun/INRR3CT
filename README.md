@@ -6,8 +6,9 @@ This is the official pytorch implementation of the deep leraning model INRR3CT f
 
 Note: The previous code repository of INRR3CT is here: https://github.com/wanderinrain/Xray2CT.
 
+
 ## Code release
-The code will be ready before Sep. 30, 2024.
+A simple version that could take biplanar X-rays has been released.
 
 
 ## Abstract
@@ -26,28 +27,8 @@ If you find the paper useful in your research, please cite the paper:
         organization={Springer}
       }
 
-
-## Contents
-1. [Requirements](#Requirements)
-2. [Installation](#Installation)
-3. [Code Structure](#Structure)
-4. [Demo](#Demo)
-5. [Results](#Results)
-6. [TODO](#TODO)
-7. [Acknowledgement](#Acknowledgement)
-
-## Requirements
-1. pytorch 1.9.0 version had been tested 
-2. python 3.8 was tested
-3. python dependencies, please see the requirements.txt file
-4. CUDA11.8 had been tested
-
-## Installation
-- Install Python 3.8.0
-- pip install -r requirements.txt
-- Install pytorch 1.9.0 or above
-- Make sure CUDA and cudnn are installed
-- Download the source code and put the data file to the right location according to the code structure below
+## Train model
+Run 'train.py'. Our code is designed for Xray with dimension of (1, 128, 128), CT with dimension of (1, 128, 128, 128). Please customize your dataloader in 'train.py' file and change the parameter settings of NNs accordingly.
 
 ## Acknowledgement
 This work was supported by NSF CAREER: IIS-1652633.
